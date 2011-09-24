@@ -1,4 +1,4 @@
-## Campfire Notifications for Chrome
+# Campfire Notifications for Chrome
 
 This extension hooks Campfire up to Chrome's implementation of the webkitNotifications API.
 
